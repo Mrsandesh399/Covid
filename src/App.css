@@ -1,0 +1,10 @@
+.App {
+  text-align: center;
+}
+
+.Card {
+  padding: 20px;
+  box-sizing: border-box;
+  background-color: aliceblue;
+  border-style: double ;
+}
